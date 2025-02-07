@@ -45,8 +45,7 @@ Quantum computers exploit phenomena such as superposition and interference to po
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/pseudo-quantum-simulation.git
-   cd pseudo-quantum-simulation
+   git clone https://github.com/Printemilio/Simulated-Qbits/tree/main
    ```
 
 2. **Run the Simulation:**
@@ -54,13 +53,6 @@ Quantum computers exploit phenomena such as superposition and interference to po
    python main.py
    ```
    This command will run the pseudo-quantum simulation, generate a labyrinth, and execute the quantum-inspired search algorithms. The output will be printed to the terminal.
-
-3. **Compile the Paper (Optional):**
-   To compile the paper from the LaTeX source:
-   ```bash
-   pdflatex paper.tex
-   ```
-   This will produce a `paper.pdf` file detailing the theoretical background, performance analysis, and experimental results.
 
 ## Performance and Experimental Results
 
